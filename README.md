@@ -1,6 +1,6 @@
 # The LightSwitch
 
-![image](https://github.com/tmatth11/the-lightswitch/assets/141206635/fb3b54c0-a4cb-45e4-9762-f7986900039d)
+![image](https://github.com/tmatth11/the-lightswitch/assets/141206635/daec450d-8333-4937-93d1-e45988d9fd23)
 
 Are you tired of asking your home assistant to turn on and off the lights? If you answered yes to this question, then "The LightSwitch" is for you! It is a revolutionary product that allows you to take control of the lighting in your home with just a flick of a switch. The Lightswitch was made to counter the widely used "smart-home" gadgets that encourage laziness. Read more on our website <a href="" target="_blank"></a> and get yours today!
 
