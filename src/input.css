@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-primary {
+    @apply rounded-full bg-yellow-300 p-2 cursor-pointer border-2 border-black hover:bg-yellow-400 active:bg-yellow-500;
+}
+
+.feature {
+    @apply w-full sm:w-1/2 lg:w-1/4 p-4 text-center;
+}
+
+.testimonial {
+    @apply flex flex-col justify-center p-4 m-3 text-center bg-white rounded-lg shadow-md;
+}
